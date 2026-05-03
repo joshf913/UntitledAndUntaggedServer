@@ -1,0 +1,13 @@
+name = "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)"
+filename = "CreateOPlenty-Create+6.0.7-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d977b340e18aa3e598d3ec134fa8eeae25a4e53c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7476099
+project-id = 1351997

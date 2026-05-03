@@ -1,0 +1,13 @@
+name = "Untagged and Untitled"
+author = "Joshua & Others"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af4a6a1e872a1a441633ceab99ee3b820dcbba49cc3ff764e9783d620b6448f3"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

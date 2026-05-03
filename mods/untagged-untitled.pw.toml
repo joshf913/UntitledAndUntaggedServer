@@ -1,0 +1,13 @@
+name = "Untagged & Untitled"
+filename = "ketchup 1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55eaf12d20917e1a262200b8eb2a0fd723d17781"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8017660
+project-id = 1529009

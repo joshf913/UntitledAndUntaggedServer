@@ -1,0 +1,13 @@
+name = "Simply Swords: Overhaul"
+filename = "simply_swords_overhaul-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bT1Hnt1/versions/XPqQqu4e/simply_swords_overhaul-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "e660cad16e664977a19e0c895c0c781a95ae804006f027120bbb703ed0e9b2326c487350e9728a3fb1e7126b681212a11e29ce861a9a36830ef76e85428f383e"
+
+[update]
+[update.modrinth]
+mod-id = "8bT1Hnt1"
+version = "XPqQqu4e"
