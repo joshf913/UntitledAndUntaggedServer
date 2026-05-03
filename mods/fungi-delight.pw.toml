@@ -3,8 +3,8 @@ filename = "FungiDelight-1.20.1-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0154431d104acf4fc5984316b9526640c2bf83fd"
+hash-format = "sha512"
+hash = "52a6d49b06b526d4616967d7176a138d60e5b488a062947d4159bf274229ee25f675cef565b9c16ed552ea9605d190333941f9b8272a070697aacd26070ed565"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ketchup 1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "55eaf12d20917e1a262200b8eb2a0fd723d17781"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

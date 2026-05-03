@@ -6,7 +6,7 @@ hash = "155ec25eb93994f982575f422d1cbd3e2b2e51139fb8f89a56cd94593c97be0d"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+hash = "15eeeae8e1eafbba56600ffaf8ac5e25534f8515a0d1e04965e376a87d448ba2"
 metafile = true
 
 [[files]]
@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+hash = "12cc59e1be0f20a46fae1f944e031798f0d122072fac488a55a87c1c96684c2e"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+hash = "2ea30a72384f886dbc753a66051bc79a4a5ce6cdce3b5c53941ea9e0f88a6f89"
 metafile = true
 
 [[files]]
@@ -106,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
+hash = "f7a572167d8cd99249ee23d793b4c0d989eb2037e92bc0b358fa7d063475d694"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "c20612eddc2894de11113cf272b1d68f80c4a62651a3f758f60f4d4e7808cb9f"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-o-plenty.pw.toml"
-hash = "d58248bc33a9993e01d23468777c212d6f96485b525e1ff33d5f5850deaa4e04"
+hash = "26d0b9aace78af0e3fc7e183f5de1d00800c56ae95c53c9083e725920f0c5f9c"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "54388e2674852f16662a66278ccfc78717c7b5537f38a4ace522e38693b22757"
 metafile = true
 
 [[files]]
@@ -216,17 +216,17 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "21ba13b128e773c2b603af4f9142975a6059affb5b2241c9db69943c3e7aabf6"
+hash = "dcacd598c6fb64494f23dc6cc17888c37416d11a2ccba356d0818b6bc7c54455"
 metafile = true
 
 [[files]]
 file = "mods/farmers-respite.pw.toml"
-hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
+hash = "dbdf31f2e6eebda52d748fa71551d50ab340bb0c5241c1feb46a01d4f208728d"
 metafile = true
 
 [[files]]
 file = "mods/fungi-delight.pw.toml"
-hash = "11e660e9eb52e3e1cefcae3762908543ee947e602613d8ebda58379b15410344"
+hash = "50a058163eb90bdb11c95bc221fd6bec7769b42070e1bb4df51a295afa44e4e5"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+hash = "f2c61a7d9d9e45b64420b885c19a3a4f0882dbd149c8943a05dd12124066af02"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "3061844bcdf1654f413ae4535052307a93d8bf2bdf187caf0ebfb580abc4b950"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
+hash = "5ec4c3adc01d45c98ca35376d98558ceb31e4d8704f844b4ebd44caca8ed136a"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+hash = "15eb15884332c4901578845a9d62dc221517c031fb46efa4f088046913a5a41c"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+hash = "f8bac10068f44ff9ab16ff5b6ecad28730273135f021d33ea42f7855b5d7c75a"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+hash = "03341e88a44cea3178d415385f52fbca24706c4ece55892d42c48940b7eb0b76"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+hash = "d3de35f81f2477d069d6d64c00dc2b8a0a255273e14834241215e8a2ab401ada"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/untagged-untitled.pw.toml"
-hash = "c67ada050f326fa2e0284c4bb169f9b34d2878080c471f79b9b51558c5cea4bc"
+hash = "24b8a49b5e0bf98e668bda0ebf24787f5a4617394d78923b496beb2a0d4de465"
 metafile = true
 
 [[files]]
@@ -476,15 +476,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d55d5e9b2ceb866a5a3f7342478d4437230f1b9f177ea23360f1ab7ced0da95b"
+hash = "2c88b89da262a1e330cc266be0b196add974cc870a9e98187a5249e4554a85ca"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "53d56895bd15af3b71bc1337d4449584a5abdfd4eaa653fae428ca81fcf3fee7"
+hash = "6798e4174c20bec6d3209bad0121edf17382d64535cc83761193d2f9a5064f28"
 metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
+hash = "7150f09728b0ec110dc09ef7433fb609cb86d7b54a2e67e49590efbbcb8dec29"
 metafile = true
