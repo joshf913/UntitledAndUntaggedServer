@@ -455,11 +455,6 @@ hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
 metafile = true
 
 [[files]]
-file = "mods/untagged-untitled.pw.toml"
-hash = "24b8a49b5e0bf98e668bda0ebf24787f5a4617394d78923b496beb2a0d4de465"
-metafile = true
-
-[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
 metafile = true
