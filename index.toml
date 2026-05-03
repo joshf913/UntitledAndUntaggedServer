@@ -5,6 +5,10 @@ file = "README.md"
 hash = "155ec25eb93994f982575f422d1cbd3e2b2e51139fb8f89a56cd94593c97be0d"
 
 [[files]]
+file = "ketchup 1.2.jar"
+hash = "022baf3224f7a86b27624be4eb6d881e791d258b5d32a9a63fdac4da8b6815bb"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "15eeeae8e1eafbba56600ffaf8ac5e25534f8515a0d1e04965e376a87d448ba2"
 metafile = true
@@ -452,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/untagged-and-untitled.pw.toml"
+hash = "ab0030f994835c16b312f7abfe4537b35f910fbb991cf208d52839cc65d42004"
 metafile = true
 
 [[files]]

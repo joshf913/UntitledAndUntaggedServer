@@ -1,0 +1,8 @@
+name = "Untagged-and-untitled"
+filename = "ketchup 1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/joshf913/UntitledAndUntaggedServer/raw/refs/heads/main/ketchup%201.2.jar"
+hash-format = "sha256"
+hash = "022baf3224f7a86b27624be4eb6d881e791d258b5d32a9a63fdac4da8b6815bb"
