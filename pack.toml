@@ -1,12 +1,12 @@
 name = "Untagged and Untitled"
 author = "Joshua & Others"
-version = "1.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ab1f11a422dc57ad0f305aee5e93502cae3b306793ae6795cf865f1f25937ef"
+hash = "6704ce8b4b06388976e0e2cfe1865822c9ee6e860df0595cd167657bf30d1286"
 
 [versions]
 forge = "47.4.10"

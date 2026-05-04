@@ -49,6 +49,11 @@ hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "ab91ecc56cc8ab62ffc54e4d5571b129d4a17dcc3b084b6089bc018307cbe816"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
 metafile = true
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "54388e2674852f16662a66278ccfc78717c7b5537f38a4ace522e38693b22757"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "dbdf31f2e6eebda52d748fa71551d50ab340bb0c5241c1feb46a01d4f208728d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
