@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "155ec25eb93994f982575f422d1cbd3e2b2e51139fb8f89a56cd94593c97be0d"
-
-[[files]]
 file = "ketchup 1.2.jar"
 hash = "022baf3224f7a86b27624be4eb6d881e791d258b5d32a9a63fdac4da8b6815bb"
 
@@ -225,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "fb0e58c2888972855f26ba60aadd1a69bffaca14e86d61ac417261dbd08d197d"
+hash = "a4f35c84ec9feec9911672daeadcb81059c96131702216010b17d6408afa5da7"
 metafile = true
 
 [[files]]
@@ -320,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
+hash = "a5320178c1cc118331b309b2e5cc902375163992d2427e1563a692930106e3ee"
 metafile = true
 
 [[files]]
@@ -380,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "3061844bcdf1654f413ae4535052307a93d8bf2bdf187caf0ebfb580abc4b950"
+hash = "9a17309d8fdbb401b860b170c60ebb9c85802638ed8376e243d2aa25514d30c7"
 metafile = true
 
 [[files]]
@@ -529,6 +525,11 @@ hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
@@ -580,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
