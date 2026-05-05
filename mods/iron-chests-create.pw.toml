@@ -1,0 +1,13 @@
+name = "Iron Chests & Create"
+filename = "Iron_Chests__Create-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d62814bb618974d99c48dbb80ef3bcd6e3bf1e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6091879
+project-id = 1180465
