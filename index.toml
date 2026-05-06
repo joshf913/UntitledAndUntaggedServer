@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dimdoors-config.json"
+file = "config/dimdoors-config.json5"
 hash = "afbc52700bdf95539bd0fff669c6b2c698bc25e742a2945d75ad71aea97c0ed7"
 
 [[files]]
