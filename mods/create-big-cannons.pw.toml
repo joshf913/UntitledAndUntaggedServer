@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/5pySFyJM/createbigcannons-5.11.3%2Bmc.1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "111b055595248e13c62575eee8dc8230f61d650da1596fbf20c2a1a059e4bfcf9e6fb75e3c12a8d435867dc6eff4241bee134381ca468247eef15657193b6023"
+hash-format = "sha256"
+hash = "35dcc25de3296fbf544f3f90d53ff156159dffddab77f2f1661b25c0d17ee7c4"
 
 [update]
 [update.modrinth]

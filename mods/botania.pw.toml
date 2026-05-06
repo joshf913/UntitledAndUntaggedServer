@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/P68oSOdv/Botania-1.20.1-452-FORGE.jar"
-hash-format = "sha512"
-hash = "9b5c3322f636db4ac55d4621a775a8489ed7f526e88e2782c813252530835162c3548c287219a1c06d48056c42321e9c0eac8e03911599d5b6b8e966f6d3c490"
+hash-format = "sha256"
+hash = "2b7bee70243f10a4c2f1352226ee2fdbc02dbceff078545eb1ecee8ad98e2d78"
 
 [update]
 [update.modrinth]

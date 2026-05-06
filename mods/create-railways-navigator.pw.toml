@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Dq3STxps/versions/Z2tKHy4Y/createrailwaysnavigator-forge-1.20.1-beta-0.9.0-C6.jar"
-hash-format = "sha512"
-hash = "d08e42d369ec1b12fdb81c153d3c4573d12f6b4dc0af8d29dc2fb4745d55c772b931d3923109d431667706331a8d5dee4d209b6a79c8b7f758a88bf73d9b659f"
+hash-format = "sha256"
+hash = "e85d2b13395b437a8cf71cc949689535fac70aae19380221a2df5aa5c9ef0868"
 
 [update]
 [update.modrinth]

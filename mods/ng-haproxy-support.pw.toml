@@ -3,8 +3,8 @@ filename = "ng_proxy_support-1.0.0-all.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "c78f35421c3b6b3c3ae57e341ec088882f250162"
+hash-format = "sha256"
+hash = "666e4e2ff2330dcf424e5fbe33718f1423fe2d59c36429e38eb77662540448fb"
 mode = "metadata:curseforge"
 
 [update]

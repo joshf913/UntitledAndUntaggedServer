@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/gC9IUqZM/corpsecurioscompat-1.20.1-Forge-4.0.1.jar"
-hash-format = "sha512"
-hash = "75768077f9f1820b75e7b1a02a61317817dd96f4c4f07fe78f3482161ceb249a2efe6d8dd452146eb697c6c2fc071faf46f52db2e2552a2ab9df9a3c09a707ad"
+hash-format = "sha256"
+hash = "eed0e0936172e4ad9c2ad4d5e4dd2e740f27ff2363349a209f32a396cb2b6535"
 
 [update]
 [update.modrinth]

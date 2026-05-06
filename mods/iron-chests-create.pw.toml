@@ -3,8 +3,8 @@ filename = "Iron_Chests__Create-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d62814bb618974d99c48dbb80ef3bcd6e3bf1e0"
+hash-format = "sha256"
+hash = "7354d1eedba02f53d76c91222852738393e1beeacb75c4edf692378037894a6d"
 mode = "metadata:curseforge"
 
 [update]

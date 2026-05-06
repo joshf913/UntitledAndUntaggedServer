@@ -3,8 +3,8 @@ filename = "DarkModeEverywhere-1.20.1-1.2.5.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "ed93ba9f0bbdfe9a1d3350c57e4c09c2a63bda6e"
+hash-format = "sha256"
+hash = "b36dadf9656af47a614aec9ac1bc8c5fc872d7b13544f0a01ad23b6bf31ca584"
 mode = "metadata:curseforge"
 
 [update]

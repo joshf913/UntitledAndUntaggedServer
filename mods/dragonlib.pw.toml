@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/HMQPcUPw/dragonlib-forge-1.20.1-beta-3.0.26.jar"
-hash-format = "sha512"
-hash = "c7d415a2eaea17d580b92a9cebbfd67d3c7cf71dacbbecd2c19d219ed31e7c6b0ef0230d5c2906ea2796a8be0d9fe3bbd1c72747e7ff6e8375d19bdc18a9698b"
+hash-format = "sha256"
+hash = "60b2c8aeba76f9bef74e8b3e896f05338c57378eecaaa73f0190be978722f26a"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "TATOS 1.0.5_beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f03794efe3f8207cea1f351bee5cd84be142d09"
+hash-format = "sha256"
+hash = "a42bc700a8fcfc32fa8ec122720296bc61b3324cd6f249a60fe342793ecbf5f5"
 mode = "metadata:curseforge"
 
 [update]

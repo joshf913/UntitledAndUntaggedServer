@@ -3,8 +3,8 @@ filename = "CreateOPlenty-Create+6.0.7-3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "ba9b1facce905e2829d4d869f0ca573947a7c5311a8907a3f39e07cb3b7e5d75c58ce2ce5a461be4a294135925a37dcb2cc68fe3c964104a14604d679fcb2bfb"
+hash-format = "sha256"
+hash = "498fe627bde12f5e9697ad2ce520dbd98a46cd4e49b2f8cb167521dadc071b69"
 mode = "metadata:curseforge"
 
 [update]

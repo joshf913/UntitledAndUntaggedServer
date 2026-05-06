@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZtCxqDmV/modernfix-forge-5.27.15%2Bmc1.20.1.jar"
-hash-format = "sha512"
-hash = "cf2b21e930f05c638699abda554a5d021d35bd2e06d4ad8944a052c2c22615c9fe64881f4b2980b5caa459a6e96ffbd9ac3f4fc8c43044335a33f1c641efe156"
+hash-format = "sha256"
+hash = "c5f9e10a714572d6208a2943b7741f6939f7ad306a3afb692ec8a87b9668d94a"
 
 [update]
 [update.modrinth]

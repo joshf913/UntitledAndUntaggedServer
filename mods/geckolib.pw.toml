@@ -3,8 +3,8 @@ filename = "geckolib-forge-1.20.1-4.8.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5428765c6c2e2135da6ee01f2f0478fa0db6aee7"
+hash-format = "sha256"
+hash = "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
 mode = "metadata:curseforge"
 
 [update]

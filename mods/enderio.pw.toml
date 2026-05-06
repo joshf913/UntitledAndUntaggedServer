@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/49ZofO4f/versions/nJnmg29v/EnderIO-1.20.1-6.2.18-beta-all.jar"
-hash-format = "sha512"
-hash = "343b5b06a5dd2d8c0d08743229a153d75d19f6587f6a6b4d3a26873cf754d24c2f9e8a113e168f4b1258a10f132d9f820feb6a030bd111ab5377916a64dcb9dc"
+hash-format = "sha256"
+hash = "9d1471e6d4562d0a50f0564bc46573b87fd738bd440fe19397d31847da20f172"
 
 [update]
 [update.modrinth]

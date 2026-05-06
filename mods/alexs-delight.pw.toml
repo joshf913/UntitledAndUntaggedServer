@@ -3,8 +3,8 @@ filename = "alexsdelight-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba"
+hash-format = "sha256"
+hash = "439da92c904959e805c2237ebda9e96db60870dd3b58b4b402547d494fa0057a"
 mode = "metadata:curseforge"
 
 [update]
