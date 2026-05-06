@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dimdoors-config.json"
+hash = "afbc52700bdf95539bd0fff669c6b2c698bc25e742a2945d75ad71aea97c0ed7"
+
+[[files]]
+file = "config/proxy_protocol_support.json"
+hash = "a32d0163ddb6acd76e7167bdd65507ee79bc57a89420f09d1915384e8f1a4176"
+
+[[files]]
 file = "ketchup 1.2.jar"
 hash = "022baf3224f7a86b27624be4eb6d881e791d258b5d32a9a63fdac4da8b6815bb"
 
