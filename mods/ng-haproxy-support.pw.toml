@@ -1,0 +1,13 @@
+name = "NG HaProxy Support"
+filename = "ng_proxy_support-1.0.0-all.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c78f35421c3b6b3c3ae57e341ec088882f250162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7629065
+project-id = 1408807
