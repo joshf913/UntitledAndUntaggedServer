@@ -1,5 +1,5 @@
 {
-  "enableProxyProtocol": true,
+  "enableProxyProtocol": false,
   "proxyServerIPs": [
     "172.24.0.0/16",
     "172.18.0.1",

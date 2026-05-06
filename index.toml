@@ -6,7 +6,7 @@ hash = "afbc52700bdf95539bd0fff669c6b2c698bc25e742a2945d75ad71aea97c0ed7"
 
 [[files]]
 file = "config/proxy_protocol_support.json"
-hash = "a32d0163ddb6acd76e7167bdd65507ee79bc57a89420f09d1915384e8f1a4176"
+hash = "5d8da98a08a7a701f4f5a25bb5c0037b9fe60571fcf5a5054adc3a47d0b51673"
 
 [[files]]
 file = "ketchup 1.2.jar"
