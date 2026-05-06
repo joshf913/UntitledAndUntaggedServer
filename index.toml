@@ -238,11 +238,6 @@ hash = "0d702edaf67e5fbfc23c34b5b283325a1c9110f90787b7743acad001e74f0f6c"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "a9f566c176ece1cd0e88b8110f89a9fccfe3b501840188829010a4dead1cb6ec"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "49679891a67b6f56b4fc91c2c12e28e8c9e125c2b192edaa02f56911c2219d10"
 metafile = true
