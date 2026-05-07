@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "24cce958af7e38a592c1ef2fc4b95f1a90d42572fb476393a4cd3f7859666c9b"
+hash = "b613f3c2e55bdf5562585e98b03b1513ae26a003b32a19cd2fce076e293d7652"
 metafile = true
 
 [[files]]
