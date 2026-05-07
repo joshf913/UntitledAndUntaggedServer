@@ -488,11 +488,6 @@ hash = "e0d6209528f0d9840dd7d70888457dc37d45fef72dd320c06309461adb87fd58"
 metafile = true
 
 [[files]]
-file = "mods/fungi-delight.pw.toml"
-hash = "4de587d3b2f48ad891d57de105a61bda1ad8e2960c421a6f6532cfcef5cc9583"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "61fba69e5d56bf0d79370f6074be74bab0169d4b1f2af3823197112941d543cd"
 metafile = true
