@@ -593,6 +593,11 @@ hash = "5cd6833ccd116b7ac89cee0c206b85dc2b9033bf81dd1c59018118a63e01476c"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
 file = "mods/ng-haproxy-support.pw.toml"
 hash = "6a35c39793f69bbb2236d46544aea319bca4d4c9eddf76a4f12a38c53c54655a"
 metafile = true
@@ -870,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "fe4a59eb731fcfae23e2e3fc1f9bbc725227409aa9c3e5b7a507a91a1c0d4d6f"
+metafile = true
+
+[[files]]
+file = "mods/yosby.pw.toml"
+hash = "ea15ef438a1a9836b56165ecde006913119eeb17a8130225f730addf4cf99509"
 metafile = true
 
 [[files]]
