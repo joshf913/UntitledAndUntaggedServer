@@ -278,6 +278,11 @@ hash = "3a731542a59d744c45b2bdb61b704d33bcb013b44d7a2adbd58ad2e4cd072dfa"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "e204c073217baa33b2799a087cccb69c7da55dc6ed7a42907e568dda576fca88"
 metafile = true
@@ -618,6 +623,16 @@ hash = "c128b30b14ad0f4c51741794948b1bb71b029d5b09dc069b28e6687019db5b29"
 metafile = true
 
 [[files]]
+file = "mods/opac-better-gui.pw.toml"
+hash = "48b8ed59d59a0655dee0c2e91a5262257e3cfea736aa60d43b2dd4512ed22095"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8516b043738dad16ef7e4b7f264804f346c9829bde608327788bc517fedabf7a"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "652eed784ba0f1845f3b3501b3796f7809ee85aa3e4dda0e0d9daa552b549839"
 metafile = true
@@ -860,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ac17eda813f17fb719176b1fe74577160e886001b7b8e1025a6b477ca81e020d"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
 
 [[files]]
