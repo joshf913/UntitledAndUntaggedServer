@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Discord-Integration.toml"
-hash = "62ece8b2b00a4309797682d43c4e3a0051d9ef64b2f4d6dfeb58b02bfd0880b7"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "1247a7c4c9a654b3f8729ae2d63795431670608ab41e83e5ac1df4e645821168"
 
