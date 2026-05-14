@@ -1,0 +1,13 @@
+name = "JEI WorldGen - Just Enough Items Addon"
+filename = "JEIWorldGen-forge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YYrsrQ6q/versions/zHPDDOqL/JEIWorldGen-forge-1.1.0.jar"
+hash-format = "sha512"
+hash = "5ae1475da1f3fed51e5bb0ae213d496f284a8c8afc6b31e70979a3b024407eb58f5390309bbfe18a96f2f90ba5fce20d13626b3a7e6a710d568a054e83a0bffa"
+
+[update]
+[update.modrinth]
+mod-id = "YYrsrQ6q"
+version = "zHPDDOqL"

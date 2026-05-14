@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "0fb783263fd3576be65d2ce2de363d6f761ca32ccf5d966916f49ff459331efd"
+hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
@@ -313,6 +313,11 @@ hash = "85e5fea0081c0894383c7292b7ba9ad6f7cb1f3cece0a54195cee942bd13a9b8"
 metafile = true
 
 [[files]]
+file = "mods/compat-o-plenty.pw.toml"
+hash = "23edf07c5dc8023b18408e7b7bda24ab4ff107427807e681617fc5edf67f013a"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7f1d3e42575ce9970798e0453d9b42ae5584396ba4c166d0e43717ced269efdd"
 metafile = true
@@ -350,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "d9f5652970ab9dfa4dd18e2c288dab810249c6b39371d3aa8668a160af24edbc"
+metafile = true
+
+[[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "eeedf89b18f45dc7692d2a5368fd7e42d09a7a15f0084db9105884d429158834"
 metafile = true
 
 [[files]]
@@ -463,8 +473,23 @@ hash = "6ac84f42318547dfd4c275badd08b8a7807bdc862177c9f2f850c856b5f973d3"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "93f3fb61110dd75509775a371145237b1c4d114c25db7a86ee59f75fb0b7e621"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "94231b261ec4dfbed08035271ecdf099a245cae486a1bed57252a5f081e117e3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "98b56ff0c99da899ee115447cc0477e02a2d47fd27c4d8e08ca7d57f38e97133"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "9f7e583b647d96d4021c60f7b0301101fdf9dcfca43ab47ecd19fac5978c463b"
+hash = "d478b8c5149f9c37bc0072d0608e2fbc6ff38cd3d15420f99c8a7ed2a55c8f0e"
 metafile = true
 
 [[files]]
@@ -490,11 +515,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
 metafile = true
 
 [[files]]
@@ -545,6 +565,41 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
+file = "mods/jei-enhancements.pw.toml"
+hash = "8afed508990a456e0e4a3d0cb7dfd5549d1b48bd8f0de02186dafaeea7fbe8ce"
+metafile = true
+
+[[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
+metafile = true
+
+[[files]]
+file = "mods/jei-worldgen.pw.toml"
+hash = "25d10bd51676281e7174e0c62a6213a3702e71903581ad025a27ff8da77bb1c5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
+metafile = true
+
+[[files]]
+file = "mods/jrftl.pw.toml"
+hash = "72e99142fbc1070fc3ae5957e7de58db91ae124a2ded9682c2fc17c42d89ced9"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "3a4b8c6740da53ac799c9537f6a0dbfefd936ec670a6d2a80ca242441bcb4b7a"
 metafile = true
 
 [[files]]
@@ -679,7 +734,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "c61b9de69b78020007a6dde5ddb598fd996e79a13d1ad1bbbbe2f2bb86668aaa"
+hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
+file = "mods/quarkponders.pw.toml"
+hash = "aba59fd89c4085dc61a0106abdb9a673928021a0f8f99467337779bd06d8cceb"
 metafile = true
 
 [[files]]
@@ -700,11 +760,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "7af2e9c6d1765456c342f5257ee0b8b69a67488ede42c035de794e2325ebec49"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "8f17f6c0e7f2d32c04f931f5a823171ec82610c9d287a0ff4467db26392cfd61"
 metafile = true
 
 [[files]]
@@ -785,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "2c82220093eb127f22d773a2c7f084b05e8f488907216deabb269a9cf98deb89"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-jei-index.pw.toml"
+hash = "06fd438226128e04038911f9631772d13a0e2c73903edd60f0585b87d707dec1"
 metafile = true
 
 [[files]]

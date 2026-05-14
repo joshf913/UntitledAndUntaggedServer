@@ -1,0 +1,13 @@
+name = "Compat O' Plenty (Forge)"
+filename = "compat_o_plenty-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t9urSl1Z/versions/3MhqQsqj/compat_o_plenty-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "90c8ea87601f53b85069a3ce77cf03d874c48786afe864c2493aeac6506374909cdd4fd3955adb23912b280e3762ece4e6801e423267070afe493a3e288ac3d4"
+
+[update]
+[update.modrinth]
+mod-id = "t9urSl1Z"
+version = "3MhqQsqj"
